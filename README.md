@@ -8,7 +8,7 @@ For me a **Growth Mindset**, is the meta approach to learning by active particip
 Reminders to stay in growth mindset:
 - You have to walk before you run
 - All things pass
-- Step 3: Profit, or perhaps talking a break and getting a cup of coffee
+- Talking a break and coming back with a fresh mindset
 
 Here is a link to [My GitHub](https://github.com/BrianSward)!
 
