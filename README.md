@@ -8,3 +8,5 @@ Reminders to stay in growth mindset:
 - You have to walk before you run
 - All things pass
 - Profit
+
+My github profile lives here: <https://github.com/BrianSward>
