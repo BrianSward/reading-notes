@@ -1,4 +1,4 @@
-# My Reading Notes <span style="font-size 4em"> A Dangerous Realm of Nonsense and Neuro Divergenrt Tendencies</span>
+# My Reading Notes <span style="font-size 4em;"> A Dangerous Realm of Nonsense and Neuro Divergenrt Tendencies</span>
 
 ## Day 1 - 6/27/2022
 
