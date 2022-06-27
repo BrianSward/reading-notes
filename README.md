@@ -1,5 +1,4 @@
-# My Reading Notes <span style="font-size 4em;"> A Dangerous Realm of Nonsense and Neuro Divergenrt Tendencies</span>
-
+# Course 102
 ## Day 1 - 6/27/2022
 
 This is where I'm going to put *my* reading assignments.
