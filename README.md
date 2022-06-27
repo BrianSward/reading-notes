@@ -13,3 +13,5 @@ Reminders to stay in growth mindset:
 - Profit or perhaps talking a break and getting a cup of coffee
 
 My github profile lives here: <https://github.com/BrianSward>
+
+![This is Chickpea, She has a blackbelt in cuteness](https://github.com/BrianSward/reading-notes/blob/main/PXL_20220609_153110554.PORTRAIT.jpg "Chickpea")
