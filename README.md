@@ -3,7 +3,7 @@
 
 This is where I'm going to put *my* reading assignments.
 
-For me a **Growth Mindset**, is the meta approach to learning by active participation in the process coupled with the understanding that improvement is a process frought with trail and failure. 
+For me a **Growth Mindset**, is the meta approach to learning by active participation in the process coupled with the understanding that improvement is a process fraught with trail and failure. 
 
 Reminders to stay in growth mindset:
 - You have to walk before you run
