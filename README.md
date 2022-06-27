@@ -10,7 +10,7 @@ Reminders to stay in growth mindset:
 - All things pass
 - Step 3: Profit, or perhaps talking a break and getting a cup of coffee
 
-My github profile lives here: <https://github.com/BrianSward>
+Here is a link to [My GitHub](https://github.com/BrianSward)!
 
 ![She has a blackbelt in cuteness!](https://github.com/BrianSward/reading-notes/blob/main/PXL_20220609_153110554.PORTRAIT.jpg?raw=true "This is Chickpea")
 
