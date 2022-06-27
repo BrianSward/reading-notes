@@ -14,4 +14,4 @@ Reminders to stay in growth mindset:
 
 My github profile lives here: <https://github.com/BrianSward>
 
-![She has a blackbelt in cuteness!](http://github.com/BrianSward/reading-notes/blob/main/PXL_20220609_153110554.PORTRAIT.jpg "This is Chickpea")
+![She has a blackbelt in cuteness!](https://github.com/BrianSward/reading-notes/blob/main/PXL_20220609_153110554.PORTRAIT.jpg "This is Chickpea")
