@@ -1,4 +1,4 @@
-# My Reading Notes!
+# My Reading Notes - A Dangerous Realm of Nonsense and Neuro Divergenrt Tendencies
 
 ## Day 1 - 6/27/2022
 
