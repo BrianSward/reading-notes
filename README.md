@@ -17,6 +17,10 @@ Here is a link to [My GitHub](https://github.com/BrianSward)!
 ## Day 2 - 6/28/2022
 
 TBD
-'this'
-& this
-* this
+*dragonfly* Italics
+**dragonfly**  Bold
+* dragonfly Unordered list item
+> dragonfly Quoted text
+# dragonfly H1 header
+& dragonfly No Markdown effect
+`dragonfly` No Markdown effect
