@@ -17,3 +17,6 @@ Here is a link to [My GitHub](https://github.com/BrianSward)!
 ## Day 2 - 6/28/2022
 
 TBD
+'this'
+& this
+* this
