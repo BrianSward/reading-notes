@@ -33,6 +33,9 @@
 
 - _Cloned Reponsitories_ - they can be remote as well as local
 - _Seeing Your Remotes_ - By running the git remote command, you can view the short names, such as “origin,” of all specified remote handles.
+
+Was supposed to stop here but I continued with notes...
+
 - _Adding Remotes_ - Can add them also
 - _Fetching_ - or get them
 - _Pushing_ - allows for changing
