@@ -8,8 +8,6 @@ This is my 12 month old border collie/poodle.
 
 ![She has a blackbelt in cuteness!](https://github.com/BrianSward/reading-notes/blob/main/PXL_20220609_153110554.PORTRAIT.jpg?raw=true "This is Chickpea")
 
-[Click here for Read 02 Notes](https://github.com/BrianSward/reading-notes/blob/main/page2)
-
 ## Table of Contents
 
 - [Class 1](class1.md)
@@ -17,3 +15,19 @@ This is my 12 month old border collie/poodle.
 - [Class 2](class2.md)
 
 - [Class 3](class3.md)
+
+## Fun Exciting Coming Attractions
+
+- [Class 4](class4.md)
+
+- [Class 5](class5.md)
+
+- [Class 6](class6.md)
+
+- [Class 7](class7.md)
+
+- [Class 8](class8.md)
+
+- [Class 9](class9.md)
+
+- [Class 10](class10.md)
