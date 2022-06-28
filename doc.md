@@ -15,3 +15,5 @@
 - Read: 03 - Revisions and the Cloud
 
   - [Git Intro](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
+
+[Homepage](https://briansward.github.io/reading-notes/)

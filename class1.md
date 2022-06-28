@@ -7,3 +7,5 @@ Reminders to stay in growth mindset:
 - You have to walk before you run
 - All things pass
 - Talking a break and coming back with a fresh mindset
+
+[Homepage](https://briansward.github.io/reading-notes/)

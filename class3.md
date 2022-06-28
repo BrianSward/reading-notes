@@ -129,3 +129,5 @@ Here are the main steps of the GitHub collaboration workflow:
 - Open a Pull Request.
 - Confer with team and perform additional commits, if applicable.
 - The project owner closes or merges the Pull Request.
+
+[Homepage](https://briansward.github.io/reading-notes/)
