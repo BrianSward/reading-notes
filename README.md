@@ -14,6 +14,8 @@ Here is a link to [My GitHub](https://github.com/BrianSward)!
 
 ![She has a blackbelt in cuteness!](https://github.com/BrianSward/reading-notes/blob/main/PXL_20220609_153110554.PORTRAIT.jpg?raw=true "This is Chickpea")
 
+[Click here for Reading 02 Notes](https://github.com/BrianSward/reading-notes/blob/main/page2)
+
 ## Day 2 - 6/28/2022
 
 TBD
