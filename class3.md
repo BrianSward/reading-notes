@@ -100,36 +100,29 @@
 
 ## Distributed Workflows
 
-- Distributed workflows => allow collaboration. Every developer using Git can be both a node and a hub; this means he/she can own a main repository which collaborators contribute to and base their work off of while also contributing code to other repositories. This opens up the possibilities for workflows immensely.
+- _Distributed workflows_ => allow collaboration. Every developer using Git can be both a node and a hub; this means he/she can own a main repository which collaborators contribute to and base their work off of while also contributing code to other repositories. This opens up the possibilities for workflows immensely.
 
 For now, we are only going to discuss a couple of the most common distributed workflows.
 
-- Centralized Workflow
-The centralized workflow entails the existence of one main hub, which can accept code. In this type of structure, many developers synchronize to this central repository, pushing and merging changes to it.
+- _Centralized Workflow_ - Centralized workflow has one main hub accepting code
 
-- Integration-Manager Workflow
-This workflow structure involves multiple remote repositories. In this scenario, there is often one main project repository, and developers can have read access to others’ repositories and write access to their own. Those involved in the Integration-Manager Workflow create clones of the main project repository, push any changes to it, and ask the repository maintainer to pull in the pushed changes. The maintainer can add someone’s repository as a remote, test changes locally, merge them into their branch, and push back to their repository.
-
-This workflow is commonly found with hub-centered resources, such as GitHub (we’ll talk about GitHub in the next section).
+- _Integration-Manager Workflow_ involves multiple remote repositories (This workflow is commonly found with hub-centered resources)
 
 ## GitHub
 
 As previously mentioned, GitHub is a hub-focused tool which facilitates Integration-Manager Workflow. It is the largest existing host for Git repositories and is used by millions of developers worldwide. A high percentage of Git repositories reside on GitHub, and this resource is used by many open source projects.
 
-- Getting Started
-First, in order to use GitHub, you must set up a free user account. You can easily do this by visiting [Git Hub](https://github.com).
+- _Getting Started_ you must set up a free user account at [Git Hub](https://github.com).
 
-- Contributing to Projects
-To contribute to a project which you do not have push privileges for, you can “fork” a project, which means you will have your own copy of it, which you can freely push to. To complete a “fork,” look for the Fork button at the top right of the project page.
+- _Contributing to Projects_ - when you do not have push privileges for, you can “fork” a project,
 
-- General Workflow
-GitHub’s collaboration workflow revolves around Pull Requests.
+- _General Workflow_ revolves around Pull Requests.
 
 Here are the main steps of the GitHub collaboration workflow:
 
-Create a topic branch from master.
-Commit changes for the project.
-Push the topic branch to the GitHub project.
-Open a Pull Request.
-Confer with team and perform additional commits, if applicable.
-The project owner closes or merges the Pull Request.
+- Create a topic branch from master.
+- Commit changes for the project.
+- Push the topic branch to the GitHub project.
+- Open a Pull Request.
+- Confer with team and perform additional commits, if applicable.
+- The project owner closes or merges the Pull Request.
