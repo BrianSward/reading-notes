@@ -8,7 +8,7 @@ This is my 12 month old border collie/poodle.
 
 ![She has a blackbelt in cuteness!](https://github.com/BrianSward/reading-notes/blob/main/PXL_20220609_153110554.PORTRAIT.jpg?raw=true "This is Chickpea")
 
-## Table of Contents
+## Completed Reading Assignments
 
 - [Class 1](class1.md)
 
