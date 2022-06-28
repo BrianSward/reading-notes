@@ -16,7 +16,7 @@ This is my 12 month old border collie/poodle.
 
 - [Class 3](class3.md)
 
-## Fun Exciting Coming Attractions
+### Fun Exciting Coming Attractions
 
 - [Class 4](class4.md)
 
