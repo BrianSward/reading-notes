@@ -37,16 +37,3 @@ There are no extensions
 Linux is CasE SenSITive
 Avoid spaces in names for ease
 ls -a will list all files, including hidden ones
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
