@@ -21,7 +21,7 @@
 - Can be made, imported, cloned
 - Made of three components Working Directory (where files live), Index (staging area), Head (points to most recent commit)
 - Saves are either Tracked or Untracked, not sure what this means
-- [] All this commiting changes and file status sh1t makes no sense, find a youtube video about this
+- [ ] All this commiting changes and file status sh1t makes no sense, find a youtube video about this
   -  The Life Cycle of File Status, Check File Status, Tracking and Staging a New File, Committing a File, Committing All Changes, Pushing Changes, Stashing Changes
 
 ## Remote Repositories - Versions which live online
@@ -39,8 +39,8 @@
 ## Branching
 - Common trait of version control systems
 - you create branches of a central repository, collaborators are able to work simultaneously via multiple branches, without affecting this main repository.
-- Watch a you tube video on this! This seems very important when you actually work with other people
-- [] Can also switch a branch, list branches, and other things
+- [ ] Watch a you tube video on this! This seems very important when you actually work with other people
+- Can also switch a branch, list branches, and other things
 
 ## Merging
 - This is bring multiple branches together
