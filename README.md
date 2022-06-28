@@ -10,10 +10,10 @@ This is my 12 month old border collie/poodle.
 
 [Click here for Read 02 Notes](https://github.com/BrianSward/reading-notes/blob/main/page2)
 
-## Useful Links
+## Table of Contents
 
-[Class 1](class1.md)
+- [Class 1](class1.md)
 
-[Class 2](class2.md)
+- [Class 2](class2.md)
 
-[Class 3](class3.md)
+- [Class 3](class3.md)
