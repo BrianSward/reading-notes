@@ -1,4 +1,4 @@
-# Reading Assignment 02
+# Read 02 Assignment 
 
 ## Choosing A Text Editor by The Older Coder
 - Seems to say try them all and choose what you like most
