@@ -18,6 +18,7 @@ Note how these elements are common to the vast majority of web pages
 Skim
 
 [Mozilla HTML Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
 [Mozilla HTML Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
 ## Response
