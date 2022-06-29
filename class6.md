@@ -21,7 +21,7 @@ Check out these great explainer videos, in order. In less than 30 minutes, youâ€
 
 ### JS Intro Paragraph
 
-- __JavaScript (JS)__ is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions. 
+- __JavaScript (JS)__ is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions.
 - Most well-known as the scripting language for Web pages
 - Many non-browser environments also use it
   - such as Node.js, Apache CouchDB and Adobe Acrobat.
