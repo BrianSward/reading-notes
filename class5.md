@@ -33,7 +33,7 @@ __CSS (Cascading Style Sheets)__ allows you to create great-looking web pages. U
 
 CSS is a language for specifying how documents are presented to users.
 
-    _Note_: A browser is sometimes called a user agent
+_Note_: A browser is sometimes called a user agent
 
 - CSS can be used for very basic document text styling
 - It can be used to create a layout
@@ -43,7 +43,7 @@ CSS is a language for specifying how documents are presented to users.
 
 CSS is a rule-based language where declarations, which take the form of property and value pairs, specify the properties. A CSS stylesheet will contain many such rules, written one after the other.
 
-    _Note_: You can find links to all the CSS property pages (along with other CSS features) listed on the MDN CSS reference
+_Note_: You can find links to all the CSS property pages (along with other CSS features) listed on the MDN CSS reference
 
 - CSS is broken down into modules
 
@@ -65,7 +65,7 @@ The internal style is defined inside the \<style> element, inside the head secti
 
 - __Inline__ CSS - An inline style may be used to apply a unique style for a single element.
 
-    _Note_: An inline style loses many of the advantages of a style sheet (by mixing content with presentation). Use this method sparingly.
+_Note_: An inline style loses many of the advantages of a style sheet (by mixing content with presentation). Use this method sparingly.
 
 - __Multiple Style Sheets__ If some properties have been defined for the same selector (element) in different style sheets, the value from the last read style sheet will be used.
 
@@ -85,8 +85,7 @@ The color property specifies the color of text.
     Version: CSS1
     JavaScript syntax: object.style.color="#0000FF"
 
-CSS Syntax
-    color: color|initial|inherit;
+CSS Syntax - color: color|initial|inherit;
 
 Property Values
 
