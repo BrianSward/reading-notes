@@ -33,7 +33,7 @@ __CSS (Cascading Style Sheets)__ allows you to create great-looking web pages. U
 
 CSS is a language for specifying how documents are presented to users.
 
-    _Note: A browser is sometimes called a user agent_
+    _Note_: A browser is sometimes called a user agent
 
 - CSS can be used for very basic document text styling
 - It can be used to create a layout
@@ -43,7 +43,7 @@ CSS is a language for specifying how documents are presented to users.
 
 CSS is a rule-based language where declarations, which take the form of property and value pairs, specify the properties. A CSS stylesheet will contain many such rules, written one after the other.
 
-    _Note: You can find links to all the CSS property pages (along with other CSS features) listed on the MDN CSS reference_
+    _Note_: You can find links to all the CSS property pages (along with other CSS features) listed on the MDN CSS reference
 
 - CSS is broken down into modules
 
@@ -61,13 +61,13 @@ Three Ways to Insert CSS
 
 - __Internal CSS__ - An internal style sheet may be used if one single HTML page has a unique style.
 
-The internal style is defined inside the <style> element, inside the head section.
+The internal style is defined inside the \<style> element, inside the head section.
 
 - __Inline__ CSS - An inline style may be used to apply a unique style for a single element.
 
-    _Note: An inline style loses many of the advantages of a style sheet (by mixing content with presentation). Use this method sparingly._
+    _Note_: An inline style loses many of the advantages of a style sheet (by mixing content with presentation). Use this method sparingly.
 
-- __Multiple Style Sheets__ If some properties have been defined for the same selector (element) in different style sheets, the value from the last read style sheet will be used. 
+- __Multiple Style Sheets__ If some properties have been defined for the same selector (element) in different style sheets, the value from the last read style sheet will be used.
 
 - __Cascading Order__ What style will be used when there is more than one style specified for an HTML element? So, an inline style has the highest priority, and will override external and internal styles and browser defaults.
 
