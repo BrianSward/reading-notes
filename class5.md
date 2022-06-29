@@ -89,11 +89,10 @@ CSS Syntax
     color: color|initial|inherit;
 
 Property Values
-|Value|Description|
-|---|---|
-|color |Specifies the text color. Look at [CSS Color Values](https://www.w3schools.com/cssref/css_colors_legal.asp) for a complete list of possible color values.|
-|initial|Sets this property to its default value.|
-|inherit|Inherits this property from its parent element.
+
+- color - Specifies the text color. Look at [CSS Color Values](https://www.w3schools.com/cssref/css_colors_legal.asp) for a complete list of possible color values
+- initial - Sets this property to its default value.
+- inherit - Inherits this property from its parent element.
 
 ### Skimming Assignments
 
