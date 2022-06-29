@@ -20,11 +20,11 @@ This is my 12 month old border collie/poodle.
 
 - [Class 5](class5.md)
 
+- [Class 6](class6.md)
+
 - [Bibliography](doc.md)
 
 ### Fun Exciting Coming Attractions
-
-- [Class 6](class6.md)
 
 - [Class 7](class7.md)
 
