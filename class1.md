@@ -36,11 +36,10 @@ Functionality
 
 - Here we can make repositories
 - We can clone, and share these locations
-- We can store them locally 
+- We can store them locally
 - update them via the github editor and eventually other programs
 - to update github we use pushes
 - allows for fucntionality with other things like jekyll
 - github allows for markdown and uses the syntax mentioned in the [article](https://guides.github.com/features/mastering-markdown/) we had to read
-
 
 [Homepage](https://briansward.github.io/reading-notes/)

@@ -24,5 +24,32 @@
   - Skim the Following
     - [Mozilla HTML Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
     - [Mozilla HTML Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+
+- Read 05 - D3esign Pages with CSS
+  - [What is CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
+- Read and Experiment
+  - [How to Add CSS](https://www.w3schools.com/css/css_howto.asp)
+  - [CSS Color](https://www.w3schools.com/cssref/pr_text_color.asp)
+- Skim
+  - [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+  - [Myers Web Reset Stylesheet](https://meyerweb.com/eric/tools/css/reset/)
+
+- Read 06 - Dynamic Web Pages with Javascript
+  - [JS Intro Paragraph](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  - [Input and Output in JS](https://code-maven.com/input-output-in-plain-javascript)
+- Read and Demo
+  - [Variables](https://www.w3schools.com/js/js_variables.asp)
+  - [How Computers Work - Playlist](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
+
+- Read: 07 - Programming with JavaScript
+  - [MDN Control Flow](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow)
+- Read and Demo
+  - [Functions](https://www.w3schools.com/js/js_functions.asp)
+  - [Operators](https://www.w3schools.com/js/js_operators.asp)
+- Skim
+  - [Expressions and Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
+  - [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
+
+- Read 08 - Operators and Loops
   
 [Homepage](https://briansward.github.io/reading-notes/)
