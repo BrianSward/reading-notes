@@ -23,17 +23,7 @@ There are also compound assignment operators (see reading for URL to list if thi
 - Multiplication assignment x *= f() _x = x * f()_
 - Division assignment x /= f() _x = x / f()_
 - Remainder assignment x %= f() _x = x % f()_
-- Exponentiation assignment x **= f() _x = x ** f()_
-- Left shift assignment x <<= f() _x = x << f()_
-- Right shift assignment x >>= f() -x = x >> f()_
-- Unsigned right shift assignment x >>>= f() _x = x >>> f()_
-- Bitwise AND assignment x &= f() _x = x & f()_
-- Bitwise XOR assignment x ^= f() _x = x ^ f()_
-- Bitwise OR assignment x |= f() _x = x | f()_
-- Logical AND assignment x &&= f() _x && (x = f())_
-- Logical OR assignment x ||= f() _x || (x = f())_
-- Logical nullish assignment x ??= f() _x ?? (x = f())_
-
+- for more please see reading assignment as they were breaking things
 - Indexing seems to start at 0
 
 - chaining or nesting an assignment expression, its result can itself be assigned to another variable.
