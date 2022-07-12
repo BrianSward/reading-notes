@@ -1,4 +1,4 @@
-# Course 102
+# Course 201
 
 My name is Brian Sward. I live in Seattle. Here is a link to [My GitHub](https://github.com/BrianSward)!
 
