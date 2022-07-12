@@ -4,11 +4,11 @@ My name is Brian Sward. I live in Seattle. Here is a link to [My GitHub](https:/
 
 ## Chickpea
 
-This is my 12 month old border collie/poodle. She is why I'm doing all this.
+This is _Chickpea_ 12 month old border collie/poodle. She is why I'm doing all this.
 
 ![She has a blackbelt in cuteness!](https://github.com/BrianSward/reading-notes/blob/main/PXL_20220609_153110554.PORTRAIT.jpg?raw=true "This is Chickpea")
 
-## Code 102 Reading Notes
+### Code 102 Reading Notes
 
 - [Class 1](class1.md)
 - [Class 2](class2.md)
@@ -20,7 +20,7 @@ This is my 12 month old border collie/poodle. She is why I'm doing all this.
 - [Class 8](class8.md)
 - [Bibliography](doc.md)
 
-## Code 201 Reading Notes
+### Code 201 Reading Notes
 
 Table of Contents
 
@@ -39,4 +39,3 @@ Table of Contents
 - [Day 13](201day13.md)
 - [Day 14](201day14.md)
 - [Day 15](201day15.md)
-
