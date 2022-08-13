@@ -38,11 +38,23 @@ Table of Contents
 - [Day 12](201day12.md)
 - [Day 13](201day13.md)
 - [Day 14](201day14.md)
-- [Day 15](201day15.md)
 
 ## Code 301 - Intermediate Software Development
 
-- 
+- [Day 01](301day01.md)
+- [Day 02](301day02.md)
+- [Day 03](301day03.md)
+- [Day 04](301day04.md)
+- [Day 05](301day05.md)
+- [Day 06](301day06.md)
+- [Day 07](301day07.md)
+- [Day 08](301day08.md)
+- [Day 09](301day09.md)
+- [Day 10](301day10.md)
+- [Day 11](301day11.md)
+- [Day 12](301day12.md)
+- [Day 13](301day13.md)
+- [Day 14](301day14.md)
 
 ## Code 401 - Advanced Software Development
 
