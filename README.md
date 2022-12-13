@@ -57,6 +57,21 @@ Table of Contents
 - [Day 14](301day14.md)
 - [Day 15](301day15.md)
 
-## Code 401 - Advanced Software Development
+## Code 401 - Advanced Python Development
 
-- coming soon...
+- [Day 01](401day01.md)
+- [Day 02](401day02.md)
+- [Day 03](401day03.md)
+- [Day 04](401day04.md)
+- [Day 05](401day05.md)
+- [Day 06](401day06.md)
+- [Day 07](401day07.md)
+- [Day 08](401day08.md)
+- [Day 09](401day09.md)
+- [Day 10](401day10.md)
+- [Day 11](401day11.md)
+- [Day 12](401day12.md)
+- [Day 13](401day13.md)
+- [Day 14](401day14.md)
+- [Day 15](401day15.md)
+- more to come as needed
