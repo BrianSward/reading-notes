@@ -60,6 +60,7 @@ Table of Contents
 ## Code 401 - Advanced Python Development
 
 - [Day 00](prework.md)
+- [Data Structures & Algorithms](dsa.md)
 - [Day 01](401day01.md)
 - [Day 02](401day02.md)
 - [Day 03](401day03.md)
