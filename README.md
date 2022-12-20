@@ -1,4 +1,4 @@
-# Course 201
+# Course 401
 
 My name is Brian Sward. I live in Seattle. Here is a link to [My GitHub](https://github.com/BrianSward)!
 
@@ -59,6 +59,7 @@ Table of Contents
 
 ## Code 401 - Advanced Python Development
 
+- [Day 00](prework.md)
 - [Day 01](401day01.md)
 - [Day 02](401day02.md)
 - [Day 03](401day03.md)
