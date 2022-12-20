@@ -17,5 +17,5 @@ Here are some inspirational reading/viewing that will help get you in the right 
 
 - What are 3 things I’ll start doing to “un-stick” myself whenever I get stuck on tough piece of code, logic, or feature?
   1. go for a walk
-  2. get some sugar, and reread the manual
+  2. get some sugar, take a break, and then reread the manual
   3. ask for some help from the TAs/teachers
