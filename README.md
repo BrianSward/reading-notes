@@ -92,4 +92,13 @@ Table of Contents
 - [Day 33](401day33.md)
 - [Day 34](401day34.md)
 - [Day 35](401day35.md)
+- [Day 36](401day36.md)
+- [Day 37](401day37.md)
+- [Day 38](401day38.md)
+- [Day 39](401day39.md)
+- [Day 40](401day40.md)
+- [Day 41](401day41.md)
+- [Day 42](401day42.md)
+- [Day 42 - Ethics](401day42ethics.md)
+- [Day 43](401day43.md)
 - more to come
